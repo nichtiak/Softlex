@@ -1,0 +1,44 @@
+.team
+    padding-top: 100px
+    padding-bottom: 100px
+    &-title
+        display: flex
+        align-items: center
+    &-items 
+        display: flex
+        flex-wrap: wrap
+        justify-content: space-between
+        &::after
+            // content: ''
+            // flex-grow: 1
+        &{}:last-child
+            // margin-left: 20px
+
+    &-item
+        margin-top: 40px
+        // flex-grow: 1
+        border: 1px solid red
+        &_photo
+            img
+                border-radius: 10px
+        &_name
+            font-family: Rubik
+            font-weight: 500
+            font-size: 16px
+            line-height: 26px
+            margin-top: 28px
+        &_prof
+            font-family: Rubik
+            font-style: normal
+            font-weight: normal
+            font-size: 12px
+            margin-top: 20px
+        &_contacts
+            margin-top: 10px
+            display: flex
+            align-items: flex-start
+            // border: 1px solid red
+            a
+                display: block
+                margin-right: 20px
+                // min-height: 15px
