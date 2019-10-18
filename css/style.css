@@ -462,53 +462,53 @@ h1 {
 }
 
 .rotate0 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .rotate36 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -webkit-transform: rotate(-36deg);
           transform: rotate(-36deg);
 }
 
 .rotate72 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -webkit-transform: rotate(-72deg);
           transform: rotate(-72deg);
 }
 
 .rotate108 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -webkit-transform: rotate(-108deg);
           transform: rotate(-108deg);
 }
 
 .rotate144 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -webkit-transform: rotate(-144deg);
           transform: rotate(-144deg);
 }
 
 .rotate180 {
-  -webkit-transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  transition: transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 1.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55), -webkit-transform 0.85s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }
